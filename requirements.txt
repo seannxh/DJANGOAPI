@@ -9,4 +9,8 @@ packaging==24.2
 psycopg2-binary==2.9.10
 sqlparse==0.5.2
 typing_extensions==4.12.2
+<<<<<<< HEAD
 tzdata==2024.2
+=======
+tzdata==2024.2
+>>>>>>> 0af0d6e7f0cc647fbe2d99c080f24e48649b1c39
